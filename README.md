@@ -8,7 +8,7 @@
 <h3  align="center"> A passionate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Developer from India</h3>
 
 
-<h3 align="left">### :man_technologist: About me -</h3>
+<h3 align="left">### :man_technologist: More about me: </h3>
 
 - 🌱 I’m currently learning **Excel VBA, SQL, Spring Boot**
 - :seedling: Exploring Technical Content Writing.
