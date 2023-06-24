@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Excel VBA, SQL, Spring Boot**
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode and read tech articles.
+- :zap: In my free time, I solve <b>Data Structure and Algorithm</b> problems on GeeksforGeeks and Leetcode and read tech articles.
 - 📫 How to reach me **vishal2002saw@gmail.com**
 - ⚡ Fun fact **I am funny 😅**
 
