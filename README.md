@@ -1,4 +1,4 @@
-<img width="1200" height="400" src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1060&t=st=1687588640~exp=1687589240~hmac=6304d3f796402858cb19681ecaf46aa348a487b172ed3df9c72f1d8510dd2061"/></img>
+<img width="1200" height="200" src="https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg"/></img>
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar Saw</h1>
 <h3 align="center">A passionate software developer from India</h3>
